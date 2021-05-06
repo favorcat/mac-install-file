@@ -14,36 +14,37 @@ chmod +x ./install.sh
 
 ### Homebrew를 이용한 설치 List
 ```
-1. cask
-2. curl
-3. mas
-4. zsh
-5. zsh-syntax-highlighting
-6. google-chrome
-7. iterm2
-8. zoom
-9. karabiner-elements
-10. scroll-reverser
-11. visual-studio-code
-12. gitkraken
-13. microsoft-office
-14. notion
-15. telegram
-16. discord
-17. stats
-18. bartender
-19. macs-fan-control
-20. appcleaner
-21. vlc
-22. 카카오톡
-23. Magnet
-24. Alfred
-25. Slack
-26. 한컴오피스 한글 2014 VP 뷰어
-27. 벅스 플레이어
-28. GoodNotes
-29. Outline
-30. Brother P-touch Editor
+cask
+curl
+mas
+python@3.9
+zsh
+zsh-syntax-highlighting
+google-chrome
+iterm2
+zoom
+karabiner-elements
+scroll-reverser
+visual-studio-code
+gitkraken
+microsoft-office
+notion
+telegram
+discord
+stats
+bartender
+macs-fan-control
+appcleaner
+vlc
+카카오톡
+Magnet
+Alfred
+Slack
+한컴오피스 한글 2014 VP 뷰어
+벅스 플레이어
+GoodNotes
+Outline
+Brother P-touch Editor
 ```
 
 ## iTerm2 설정
@@ -61,3 +62,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 1. `KeyBindings`폴더 `Library`폴더로 이동 후 재부팅
 
 ## [VSCode C/C++ 컴파일러 설정](https://github.com/favorcat/mac-cpp-compiler)
+
+## 추가 설치 프로그램
+- [f.lux](https://justgetflux.com/)
+- [FileZilla](https://filezilla-project.org/)
