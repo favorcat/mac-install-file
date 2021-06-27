@@ -54,7 +54,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ```
 2. iTerm preferences 이동
     1. color presets -> import -> `Snazzy.itermcolors`
-    2. font -> D2coding
+    2. font -> [D2coding](https://github.com/naver/d2codingfont)
 3. `~/.zshrc` 파일 덮어쓰기
 4. `~/.oh-my-zsh/themes/`에서 `agnoster.zsh-theme` 파일 덮어쓰기
 
@@ -64,5 +64,6 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ## [VSCode C/C++ 컴파일러 설정](https://github.com/favorcat/mac-cpp-compiler)
 
 ## 추가 설치 프로그램
-- [f.lux](https://justgetflux.com/)
+- [f.lux](https://justgetflux.com/))
 - [FileZilla](https://filezilla-project.org/)
+- [Leawo Blu-ray Player](https://www.leawo.com/downloads/blu-ray-player-mac.html)
