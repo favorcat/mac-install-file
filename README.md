@@ -64,6 +64,6 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ## [VSCode C/C++ 컴파일러 설정](https://github.com/favorcat/mac-cpp-compiler)
 
 ## 추가 설치 프로그램
-- [f.lux](https://justgetflux.com/))
+- [f.lux](https://justgetflux.com/)
 - [FileZilla](https://filezilla-project.org/)
 - [Leawo Blu-ray Player](https://www.leawo.com/downloads/blu-ray-player-mac.html)
