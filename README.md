@@ -76,6 +76,10 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ## 원화기호(₩) -> 백쿼트(`) 변경
 1. `KeyBindings`폴더 `Library`폴더로 이동 후 재부팅
 
+## 한글 자음모음 분리현상 해결
+1. `hangul-patch`폴더 스크립트 파일 실행
+2. `설정` - `확장 프로그램` - `Finder`와 `Touch Bar`에 자음모음 분리 해결 스크립트 활성화
+
 ## [VSCode C/C++ 컴파일러 설정](https://github.com/favorcat/mac-cpp-compiler)
 
 ## 추가 설치 프로그램
