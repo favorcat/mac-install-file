@@ -17,33 +17,48 @@ chmod +x ./install.sh
 cask
 curl
 mas
+node
 python@3.9
+yarn
 zsh
+zsh-autosuggestions
 zsh-syntax-highlighting
+convmv
+
 google-chrome
-iterm2
-zoom
-karabiner-elements
-scroll-reverser
-visual-studio-code
-gitkraken
-microsoft-office
-notion
-telegram
-discord
-stats
-bartender
-macs-fan-control
 appcleaner
+bartender
+discord
+gitkraken
+iterm2
+karabiner-elements
+keka
+macs-fan-control
+microsoft-office
+microsoft-remote-desktop
+
+notion
+scroll-reverser
+stats
+telegram-desktop
+visual-studio-code
 vlc
+zoom
+
 카카오톡
 Magnet
+Spark(email)
 Alfred
-Slack
-한컴오피스 한글 2014 VP 뷰어
-벅스 플레이어
 GoodNotes
+Slack
+Xcode
 Outline
+
+Keynote
+Numbers
+Pages
+벅스 플레이어
+한컴오피스 한글 2014 VP 뷰어
 Brother P-touch Editor
 ```
 
