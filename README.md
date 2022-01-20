@@ -12,54 +12,9 @@ chmod +x ./install.sh
 ./install.sh
 ```
 
-### Homebrew를 이용한 설치 List
+## homebrew로 설치한 리스트 bundle 생성
 ```
-cask
-curl
-mas
-node
-python@3.9
-yarn
-zsh
-zsh-autosuggestions
-zsh-syntax-highlighting
-convmv
-
-google-chrome
-appcleaner
-bartender
-discord
-gitkraken
-iterm2
-karabiner-elements
-keka
-macs-fan-control
-microsoft-office
-microsoft-remote-desktop
-
-notion
-scroll-reverser
-stats
-telegram-desktop
-visual-studio-code
-vlc
-zoom
-
-카카오톡
-Magnet
-Spark(email)
-Alfred
-GoodNotes
-Slack
-Xcode
-Outline
-
-Keynote
-Numbers
-Pages
-벅스 플레이어
-한컴오피스 한글 2014 VP 뷰어
-Brother P-touch Editor
+brew bundle dump
 ```
 
 ## iTerm2 설정
